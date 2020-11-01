@@ -5,7 +5,9 @@ import Story from './Story'
 function StoryReel(){
     return (
         <div className="storyReel">
-            <Story />
+            <Story 
+            
+            title="Premti Krasniqi"/>
         </div>
     )
 }
